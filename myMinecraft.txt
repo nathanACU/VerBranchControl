@@ -3,6 +3,10 @@ big hotfix bug fixed 0.2
 dev update1: create grass 
 dev update2: create water 
 dev update3: create sand 
+feature 1: jump added
+feature 2: crouch
+feature 3: ender dragon
+feature 4: creepers
 feature 1: punch
 feature 2: fly
 feature 3: run
