@@ -15,3 +15,4 @@ rel update 3.0
 rel bugfix 4.0
 dev update 7: added sheep
 dev update 8: changing seasons
+dev update 9: cats and dogs
