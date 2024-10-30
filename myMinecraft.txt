@@ -1,7 +1,10 @@
 0.1 create blue sky
+big hotfix bug fixed 0.2
 dev update1: create grass 
 dev update2: create water 
 dev update3: create sand 
 feature 1: punch
 feature 2: fly
 feature 3: run
+dev update4: create trees
+dev update5: added hotfix
