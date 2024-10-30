@@ -1,2 +1,3 @@
 0.1 create blue sky
 big hotfix bug fixed 0.2
+master 0.2
