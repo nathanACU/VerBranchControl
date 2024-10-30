@@ -18,5 +18,9 @@ rel update 2
 rel update 3.0
 rel bugfix 4.0
 dev update 7: added sheep
+feature 4: change player skin
+feature 5: online play
+feature 6: coop multiplayer
+
 dev update 8: changing seasons
 dev update 9: cats and dogs
