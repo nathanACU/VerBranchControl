@@ -14,3 +14,4 @@ rel update 2
 dev update 7: added sheep
 feature 4: change player skin
 feature 5: online play
+feature 6: coop multiplayer
