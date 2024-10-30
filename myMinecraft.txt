@@ -21,7 +21,7 @@ dev update 7: added sheep
 feature 4: change player skin
 feature 5: online play
 feature 6: coop multiplayer
-
+final release 1.0
 dev update 8: changing seasons
 dev update 9: cats and dogs
 release 5.0
