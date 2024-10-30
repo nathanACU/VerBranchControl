@@ -13,3 +13,4 @@ release 1.0
 rel update 2
 dev update 7: added sheep
 feature 4: change player skin
+feature 5: online play
