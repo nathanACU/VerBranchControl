@@ -24,3 +24,4 @@ feature 6: coop multiplayer
 
 dev update 8: changing seasons
 dev update 9: cats and dogs
+release 5.0
